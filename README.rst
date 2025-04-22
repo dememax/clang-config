@@ -52,6 +52,24 @@ Predefined styles
 No limit:
     WebKit
 
+IndentWidth
+-----------
+
+4 spaces: It provides good visual separation
+and makes the code structure quite clear.
+Many older style guides and projects still use 4 spaces.
+
+2 spaces: Too short for indent, I think.
+
+Predefined styles
++++++++++++++++++
+
+4 spaces
+    Microsoft and WebKit
+
+2 spaces
+    Chromium, GNU, Google, LLVM, Mozilla
+
 InsertNewlineAtEOF
 ------------------
 
@@ -78,24 +96,6 @@ Predefined styles
 +++++++++++++++++
 
 All of them in all versions have ``InsertNewlineAtEOF: false``.
-
-IndentWidth
------------
-
-4 spaces: It provides good visual separation
-and makes the code structure quite clear.
-Many older style guides and projects still use 4 spaces.
-
-2 spaces: Too short for indent, I think.
-
-Predefined styles
-+++++++++++++++++
-
-4 spaces
-    Microsoft and WebKit
-
-2 spaces
-    Chromium, GNU, Google, LLVM, Mozilla
 
 Other utilities
 ---------------
