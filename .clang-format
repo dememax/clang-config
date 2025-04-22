@@ -1,5 +1,6 @@
 # This is clang-format config file
 # Maxim Dementyev, 2025
 # https://github.com/dememax/clang-config
-InsertNewlineAtEOF: true
+ColumnLimit: 120
 IndentWidth: 4
+InsertNewlineAtEOF: true

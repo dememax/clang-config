@@ -24,6 +24,34 @@ To be precise, currently I've got:
     $ clang-format --version
     clang-format version 19.1.7
 
+ColumnLimit
+-----------
+
+The prevalence of widescreen monitors makes
+the original justification for the 80-column limit
+(fitting multiple windows side-by-side) less compelling.
+
+I think, there should be a limit.
+
+120 columns is increasingly common and accepted,
+especially in modern, private, or enterprise codebases.
+
+Predefined styles
++++++++++++++++++
+
+
+79:
+    GNU
+
+80:
+    Chromium, Google, LLVM, Mozilla
+
+120:
+    Microsoft
+
+No limit:
+    WebKit
+
 InsertNewlineAtEOF
 ------------------
 
