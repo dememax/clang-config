@@ -1,7 +1,7 @@
 My configuration files for clang format and tidy utilites
 =========================================================
 
-My tasts, nothing personal.
+My taste, nothing personal.
 
 Resulting file: .clang-format
 
