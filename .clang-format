@@ -58,3 +58,13 @@ SpaceBeforeParens: ControlStatements
 SpaceBeforeRangeBasedForLoopColon: false
 Cpp11BracedListStyle: false
 AllowShortLoopsOnASingleLine: false
+AlwaysBreakBeforeMultilineStrings: false
+ContinuationIndentWidth: 2
+AlignEscapedNewlines: Left
+BreakAfterReturnType: TopLevelDefinitions
+BinPackArguments: false
+BreakTemplateDeclarations: Yes
+ConstructorInitializerIndentWidth: 4
+BreakInheritanceList: BeforeColon
+SpaceAfterTemplateKeyword: false
+Standard: Latest
